@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Product/Project manager
 -----------------------
 
-I am an accomplished product/project manager with over 15 years of experience in the field. Currently, I am pursuing postgraduate studies and expanding my skill set in scientific research by learning the programming languages Python and R. As a seasoned professional in product management, I have honed my expertise in leading and managing complex projects across diverse industries. In my current academic pursuits, I am focusing on enhancing my technical knowledge by developing competencies in Python and R programming languages for scientific research purposes.
+I have over 15 years of experience as a skilled product/project manager. Currently, I am pursuing postgraduate studies and broadening my skill set in scientific research by learning Python and R programming languages. As a seasoned professional in product management, I have refined my expertise in leading and managing complex projects across various industries. In my academic endeavors, I am focused on expanding my technical knowledge by developing competencies in Python and R programming languages for scientific research purposes. I plan to leverage these skills to improve my work in product and project management and contribute to the scientific community by creating innovative products and solutions.
 
 *   🌍  I'm based in Europe
 *   ✉️  You can contact me at [agat.prof@gmail.com](mailto:agat.prof@gmail.com)
