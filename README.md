@@ -28,4 +28,4 @@ PostgreSQL · Linux · Python · Networking · Automation · APIs · Systems Int
 
 ## Contact
 
-**Email:** [agat.prof@gmail.com](mailto:agat.prof@gmail.com)
+**Email:** [vinokurov_aleksey@outlook.com](mailto:vinokurov_aleksey@outlook.com)
